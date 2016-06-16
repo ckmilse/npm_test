@@ -1,0 +1,23 @@
+{
+  "name": "npm_test",
+  "version": "1.0.0",
+  "description": "第一个npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckmilse/npm_test.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "ckmilse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckmilse/npm_test/issues"
+  },
+  "homepage": "https://github.com/ckmilse/npm_test#readme"
+}
